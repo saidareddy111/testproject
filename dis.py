@@ -6,4 +6,4 @@ def sum():
     sum = vara + varb
     print "vara + varb = %d" % sum
 
-sum()
+print sum()
